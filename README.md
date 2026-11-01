@@ -23,9 +23,11 @@ Tauri（Rust + 系统 WebKitGTK），而不是 Electron（自带 Chromium）。
 
 ## 效果图
 
-![index.png](./assets/index.png)
+<a href="./assets/index.png"><img src="./assets/index.png" width="49.5%"/></a> <a href="./assets/player.png"><img src="./assets/player.png" width="49.5%"/></a> <a href="./assets/playlist.png"><img src="./assets/playlist.png" width="49.5%"/></a> <a href="./assets/settings.png"><img src="./assets/settings.png" width="49.5%"/></a>
+
+<!--![index.png](./assets/index.png)
 ![playlist.png](./assets/playlist.png)
-![player.png](./assets/player.png)
+![player.png](./assets/player.png)-->
 
 ## 状态
 
